@@ -52,14 +52,14 @@ import SupportIcon from "./icons/IconSupport.vue";
     
     <a href="https://youtu.be/isqqhhC9oGc">土木館 BIM渲染動畫</a>
     <br>
-    <a href="https://youtu.be/O323wbdeWpU">土木館 剖面展示</a>
-    <br>
-    <a href="https://youtu.be/uaKimvEjWuk">土木館 Navisworks漫遊</a>
-    <br>
     <a href="https://youtu.be/cytELHRe6xA">土木館 4D TimeLiner展示</a>
     <br>
+    <a href="https://youtu.be/SBjzuEUIwAg">土木館 Navisworks漫遊</a>
+    <br>
     <a href="https://youtu.be/khbeNL45T8Y">土木館 穿越</a>
-  
+    <br>
+    <a href="https://youtu.be/O323wbdeWpU">土木館 剖面展示</a>
+
   
   
   </WelcomeItem>
