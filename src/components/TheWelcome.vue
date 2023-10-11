@@ -48,7 +48,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>作品連結</template>
+    <template #heading>作品影片連結</template>
     
     <a href="https://youtu.be/isqqhhC9oGc">土木館 BIM渲染動畫</a>
     <br>

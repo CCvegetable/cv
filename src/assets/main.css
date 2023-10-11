@@ -18,6 +18,7 @@ a,
 @media (hover: hover) {
   a:hover {
     background-color: #2E5266;
+    color: #ffffff;
   }
 }
 
