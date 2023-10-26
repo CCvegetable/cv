@@ -70,7 +70,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     </template>
     <template #heading>聯絡資料</template>
 
-    Email : cecitsai30218@gmail.com.tw
+    Email : cecitsai30218@gmail.com
     <br>
     連絡電話 : 0905-361-691
 
