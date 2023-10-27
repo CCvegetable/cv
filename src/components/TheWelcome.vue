@@ -48,7 +48,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>作品影片連結</template>
+    <template #heading>三下作品影片連結</template>
     
     <a href="https://youtu.be/isqqhhC9oGc">土木館 BIM渲染動畫</a>
     <br>
@@ -58,11 +58,31 @@ import SupportIcon from "./icons/IconSupport.vue";
     <br>
     <a href="https://youtu.be/khbeNL45T8Y">土木館 穿越</a>
     <br>
-    <a href="https://youtu.be/O323wbdeWpU">土木館 剖面展示</a>
+    <a href="https://youtu.be/O323wbdeWpU">土木館 剖面展示 </a>
 
-  
-  
+
+
+
   </WelcomeItem>
+
+  <WelcomeItem>
+    <template #icon>
+    
+    </template>
+    <template #heading>其他</template>
+
+    琢玉勵志獎助金自主學習計畫暨成果報告 |
+    <a href="https://drive.google.com/file/d/1IcphA0f9A2TG_o9J0u4XnaDmsiRUuPP3/view">工程管理</a>
+    、
+    <a href="https://drive.google.com/file/d/1WPr5x4X8kJBuoMTBy6mqI5eTBndO2mXV/view">BIM 專題研究</a>
+    <br>
+
+
+   <a href="https://hackmd.io/@jfERwE8gQ-etRySy2hktww/rJ3mPMgyp">GIS 地理資訊系統</a> 
+  </WelcomeItem>
+
+
+
 
   <WelcomeItem>
     <template #icon>
