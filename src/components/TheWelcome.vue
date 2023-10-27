@@ -71,14 +71,17 @@ import SupportIcon from "./icons/IconSupport.vue";
     </template>
     <template #heading>其他</template>
 
-    琢玉勵志獎助金自主學習計畫暨成果報告 |
+    琢玉勵志獎助金自主學習計畫暨成果報告 | 
     <a href="https://drive.google.com/file/d/1IcphA0f9A2TG_o9J0u4XnaDmsiRUuPP3/view">工程管理</a>
     、
     <a href="https://drive.google.com/file/d/1WPr5x4X8kJBuoMTBy6mqI5eTBndO2mXV/view">BIM 專題研究</a>
     <br>
-
-
-   <a href="https://hackmd.io/@jfERwE8gQ-etRySy2hktww/rJ3mPMgyp">GIS 地理資訊系統</a> 
+    BIM 技術與運用課程 | 
+    <a href="https://drive.google.com/file/d/1b7SMzC1JOZ-mTymC-y7mQ0hX52SC8ASo/view?usp=sharing">個人建模作業</a>
+    、
+    <a href="https://drive.google.com/file/d/1kYjM4pLpZI3QArjX9kC8ZBAODVtAjZ4X/view?usp=sharing">分組應用作業</a>
+    <br>
+     <a href="https://hackmd.io/@jfERwE8gQ-etRySy2hktww/rJ3mPMgyp">GIS 地理資訊系統</a> 
   </WelcomeItem>
 
 
